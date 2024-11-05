@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentos](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/social-links-profile-html-and-css-Y3OpvV_XM1)
 - Live Site URL: [GitHub Pages](https://oscarrodolfoumg.github.io/Challenge-Social-links-profile-Frontend-Mentor/)
 
 ## My process
